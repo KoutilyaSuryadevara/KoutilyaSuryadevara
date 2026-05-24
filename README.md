@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Koutilya%20Suryadevara&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Principal%20SRE%20%7C%20Platform%20Engineer%20%7C%20DevOps%20Architect&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Senior+SRE+%7C+Platform+Engineering+Leader;Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+Observability;Building+Reliable+Systems+at+Scale;AI+Infrastructure+%7C+Cloud-Native+Architecture;Zero-Downtime+Deployments+%7C+SLO-Driven+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Principal+SRE+%7C+Platform+Engineering+Leader;Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+Observability;Building+Reliable+Systems+at+Scale;AI+Infrastructure+%7C+Cloud-Native+Architecture;Zero-Downtime+Deployments+%7C+SLO-Driven+Engineering)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS & SOCIAL -->
 [![Profile Views](https://komarev.com/ghpvc/?username=KoutilyaSuryadevara&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/KoutilyaSuryadevara)
